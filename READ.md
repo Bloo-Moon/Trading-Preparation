@@ -4,7 +4,7 @@
 
 *Please note that the source data was downloaded from barchart.com*
 
-### momentum based opportunities 
+### Momentum based opportunities 
 
 ### Volume
 
