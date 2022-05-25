@@ -25,4 +25,4 @@ After extrating the 3 sections above from the raw data, its time to move on the 
 ##### Cross referencing the cross referenced securities
 As an extra(optional) step, I also combined the different categories to come up with a much shorter list of high probability equities that appeared in more than one list. This watchlist was typically much shorter than the preceeding ones and in some rare cases it was empty!
 
-[^note]: as a last note, this entire session was done a few hours before the NY open to allow for research on stocks that made it to the final watchlist, for that I was looking for news that may explain the stocks behaviour. I used webull and yahoo finance for this
+_as a last note, this entire session was done a few hours before the NY open to allow for research on stocks that made it to the final watchlist, for that I was looking for news that may explain the stocks behaviour. I used webull and yahoo finance for this_
