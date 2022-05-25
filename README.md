@@ -26,6 +26,6 @@ After extrating the 3 sections above from the raw data, its time to move on the 
 As an extra(optional) step, I also combined the different categories to come up with a much shorter list of high probability equities that appeared in more than one list. This watchlist was typically much shorter than the preceeding ones and in some rare cases it was empty!
 
 ### 🟡⚫ Unusual options activity
-🚧 Under Construction 🚧
+This is when an equity shows volume that is significantly larger than the historical average, the volume in an options market would be the number of contracts traded over a period of time(as opposed to number of shares traded in the cash equities market). Unusual options activity is a good indicator of insider activity, academic papers have been written with research that shows that earnings can be predicted by observing the options activity in the days leading up to the earnings call. Insiders may also have information such as news on a pending merger or acquisition, hence unusual options activity is a good leading indicator for stock price movement. My analysis of unusual options activity was paired with one of the aforementioned features to provide a more robust reasoning for including a securty in my watchlist.
 
 _as a last note, this entire prep session was done a few hours before the NY open to allow for research on stocks that made it to the final watchlist, for that I was looking for news that may explain the stocks behaviour. I used webull and yahoo finance for this_
