@@ -2,7 +2,7 @@
 
 ## Creating a watchlist for the coming trading day 
 
-*Please note that the source data was downloaded from barchart.com*
+*source data was downloaded from barchart.com*
 
 This entire process was centred around momentum. [Investing.com](investing.com) defines momentum investing as a trading strategy in which investors buy securities that are rising and sell them when they look to have peaked, where the goal is to work with volatility by finding opportunities in short-term uptrends and then sell when the securities start to lose momentum. This was my exact thinking in creating a process to select securities to include in the watchlist for trading. There are many momentum factors that are observable, however some are more reliable than others. I decided to foceus on these to preveent analysis paralysis and an information overload. These factors also proved to be consistent as leading indicators of stock price moves. I have listed them below:
 
